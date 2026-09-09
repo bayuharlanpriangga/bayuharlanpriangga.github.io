@@ -5,4 +5,12 @@
         "package_name": "io.github.bayuharlanpriangga.ofm",
         "sha256_cert_fingerprints": ["4D:23:39:50:06:99:15:5A:CD:68:14:6A:C2:DE:D9:F2:AF:0C:F1:A1:F5:98:4E:D2:FD:6A:7F:57:64:25:42:EE"]
       }
+    },
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.bayuharlanpriangga.oas",
+        "sha256_cert_fingerprints": ["10:3C:0E:16:D9:93:C3:48:96:A6:87:93:5E:A8:44:C3:28:35:15:46:53:48:94:8A:CD:18:56:72:D3:06:65:23"]
+      }
     }]
